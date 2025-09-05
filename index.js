@@ -7,3 +7,9 @@ function print()
 {
     console.log("Hello world")
 }
+
+const n = 4;
+function show()
+{
+    console.log("Hello world");
+}
