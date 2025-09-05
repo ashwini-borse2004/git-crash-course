@@ -3,6 +3,8 @@ var name="Khan"
 
 
 const sub = 2-3;
-const namm = "shital";
 
-console.log(namm);
+console.log(sub);
+console.log("Hello India");
+
+console.log("My name is ashwini");
